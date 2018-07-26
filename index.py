@@ -30,14 +30,14 @@ def scrap_item(url):
         temp['author'] = dummy[len(dummy)-1].strip()
     return temp
 
-myurl = "https://www.phonearena.com"
+myurl = "https://www.techradar.com/news/phone-and-communications/mobile-phones/best-cheap-smartphones-payg-mobiles-compared-1314718"
 
 something = uReq(myurl)
 html_page = something.read()
 something.close()
 #html parsing
 soup_page = soup(html_page, "html.parser")
-articles = soup_page.findAll("div",{"class":["article_home"]})
+container = soup_page.findAll("div",{"id":["main"]})
 array = []
 
 #grabs each article from homepage
@@ -58,7 +58,7 @@ for item in array:
     print(item)
     print()
     print()
-    
+
 # testitem = array[0]
 # print(testitem)
 
