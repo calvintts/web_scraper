@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<drawing>
+    <id>
+        <label>ID</label>
+        <value>1059</value>
+    </id>
+    <documenttype>
+        <label>Document</label>
+        <value>Drawing</value>
+    </documenttype>
+    <revisiondate>
+        <label>Revision Date</label>
+        <value />
+    </revisiondate>
+    <projectname>
+        <label>Project</label>
+        <value>5199 IGCC - GASIFIER</value>
+    </projectname>
+    <projectaddress1>
+        <label>Address</label>
+        <value />
+    </projectaddress1>
+    <projectaddress2>
+        <label>ADDRESS2</label>
+        <value />
+    </projectaddress2>
+    <projectcity>
+        <label>City</label>
+        <value />
+    </projectcity>
+    <projectstatezipcode>
+        <label>State and Zipcode</label>
+        <value />
+    </projectstatezipcode>
+    <projectcountry>
+        <label>Country</label>
+        <value>US</value>
+    </projectcountry>
+    <projectapplicationnumber>
+        <label>Application Number</label>
+        <value />
+    </projectapplicationnumber>
+    <projectfilenumber>
+        <label>File Number</label>
+        <value />
+    </projectfilenumber>
+    <projectregulatoryagency>
+        <label>Regulatory Agency</label>
+        <value />
+    </projectregulatoryagency>
+    <name>
+        <label>Subject</label>
+        <value>IGCC - GASIFIER - TRAIN 1 ABOVE GROUND PIPING ISOMETRIC - AREA 150</value>
+    </name>
+    <number>
+        <label>Number</label>
+        <value>C462-PK150XA-P-1-0397.01s02 Rev 0</value>
+    </number>
+    <revision>
+        <label>Revision</label>
+        <value />
+    </revision>
+    <timesubmitted>
+        <label>Submitted</label>
+        <value />
+    </timesubmitted>
+    <timecreated>
+        <label>Created</label>
+        <value>06/19/2013</value>
+    </timecreated>
+    <createdbyfirmname>
+        <label>Created By</label>
+        <value>EADOC</value>
+    </createdbyfirmname>
+    <createdbystaffname>
+        <label>Created By User</label>
+        <value>EADOC Support</value>
+    </createdbystaffname>
+    <submittedto>
+        <label>Submitted To</label>
+        <value />
+    </submittedto>
+    <priority>
+        <label>Priority</label>
+        <value />
+    </priority>
+    <docstatus>
+        <label>Status</label>
+        <value>Closed</value>
+    </docstatus>
+    <duedate>
+        <label>Due Date</label>
+        <value />
+    </duedate>
+    <internalpriority>
+        <label>Internal Priority</label>
+        <value />
+    </internalpriority>
+    <internalduedate>
+        <label>Internal Due Date</label>
+        <value />
+    </internalduedate>
+    <approved>
+        <label>Approval</label>
+        <value />
+    </approved>
+    <approvednote>
+        <label>REASON</label>
+        <value />
+    </approvednote>
+    <timeapproved>
+        <label>Date Approved</label>
+        <value />
+    </timeapproved>
+    <pendingonstaff>
+        <label>Pending On User</label>
+        <value />
+    </pendingonstaff>
+    <pendingonfirm>
+        <label>Pending On Org</label>
+        <value />
+    </pendingonfirm>
+    <comment>
+        <label>Details</label>
+        <value />
+    </comment>
+    <attachments_list>
+        <attachment>
+            <description>
+                <label>Description</label>
+                <value>(Gasifier Trane 1 [GT-1] - Area 15 [A15])</value>
+            </description>
+            <size>
+                <label>Size</label>
+                <value>502393</value>
+            </size>
+            <filename>
+                <label>File</label>
+                <value>C462-PK150XA-P-1-0397.01s02 Rev 0.pdf</value>
+            </filename>
+            <type>
+                <label>Type</label>
+                <value>application/pdf</value>
+            </type>
+        </attachment>
+    </attachments_list>
+    <divisionname>
+        <label />
+        <value>Southern Company Portfolio</value>
+    </divisionname>
+    <programname>
+        <label>Program</label>
+        <value>Mississippi Plant Program</value>
+    </programname>
+    <approvedby>
+        <name>
+            <label>Subject</label>
+            <value>System</value>
+        </name>
+    </approvedby>
+    <history_list>
+        <history>
+            <timecreated>
+                <label>Created</label>
+                <value>Jun 19 2013 4:09:16pm</value>
+            </timecreated>
+            <action>
+                <label>Type</label>
+                <value>Uploaded By</value>
+            </action>
+            <firm>
+                <label>Organization</label>
+                <value>EADOC</value>
+            </firm>
+            <staff>
+                <label>User</label>
+                <value>EADOC Support</value>
+            </staff>
+            <subaction>
+                <label>Type</label>
+                <value />
+            </subaction>
+            <details>
+                <label>Details</label>
+                <value />
+            </details>
+        </history>
+        <history>
+            <timecreated>
+                <label>Created</label>
+                <value>Jun 19 2013 4:09:16pm</value>
+            </timecreated>
+            <action>
+                <label>Type</label>
+                <value>Closed By</value>
+            </action>
+            <firm>
+                <label>Organization</label>
+                <value>EADOC</value>
+            </firm>
+            <staff>
+                <label>User</label>
+                <value>EADOC Support</value>
+            </staff>
+            <subaction>
+                <label>Type</label>
+                <value />
+            </subaction>
+            <details>
+                <label>Details</label>
+                <value />
+            </details>
+        </history>
+        <history>
+            <timecreated>
+                <label>Created</label>
+                <value>Jun 19 2013 4:09:17pm</value>
+            </timecreated>
+            <action>
+                <label>Type</label>
+                <value>File Uploaded By</value>
+            </action>
+            <firm>
+                <label>Organization</label>
+                <value>EADOC</value>
+            </firm>
+            <staff>
+                <label>User</label>
+                <value>EADOC Support</value>
+            </staff>
+            <subaction>
+                <label>Type</label>
+                <value>File</value>
+            </subaction>
+            <details>
+                <label>Details</label>
+                <value>C462-PK150XA-P-1-0397.01s02 Rev 0.pdf</value>
+            </details>
+        </history>
+        <history>
+            <timecreated>
+                <label>Created</label>
+                <value>Jun 19 2013 4:21:47pm</value>
+            </timecreated>
+            <action>
+                <label>Type</label>
+                <value>Reopened By</value>
+            </action>
+            <firm>
+                <label>Organization</label>
+                <value>EADOC</value>
+            </firm>
+            <staff>
+                <label>User</label>
+                <value>EADOC Support</value>
+            </staff>
+            <subaction>
+                <label>Type</label>
+                <value />
+            </subaction>
+            <details>
+                <label>Details</label>
+                <value />
+            </details>
+        </history>
+        <history>
+            <timecreated>
+                <label>Created</label>
+                <value>Jun 19 2013 4:23:04pm</value>
+            </timecreated>
+            <action>
+                <label>Type</label>
+                <value>Modified By</value>
+            </action>
+            <firm>
+                <label>Organization</label>
+                <value>EADOC</value>
+            </firm>
+            <staff>
+                <label>User</label>
+                <value>EADOC Support</value>
+            </staff>
+            <subaction>
+                <label>Type</label>
+                <value>Details</value>
+            </subaction>
+            <details />
+        </history>
+        <history>
+            <timecreated>
+                <label>Created</label>
+                <value>Jun 21 2013 11:37:14am</value>
+            </timecreated>
+            <action>
+                <label>Type</label>
+                <value>Closed By</value>
+            </action>
+            <firm>
+                <label>Organization</label>
+                <value>EADOC</value>
+            </firm>
+            <staff>
+                <label>User</label>
+                <value>EADOC Support</value>
+            </staff>
+            <subaction>
+                <label>Type</label>
+                <value />
+            </subaction>
+            <details>
+                <label>Details</label>
+                <value />
+            </details>
+        </history>
+        <history>
+            <timecreated>
+                <label>Created</label>
+                <value>Jun 27 2013 9:52:38am</value>
+            </timecreated>
+            <action>
+                <label>Type</label>
+                <value>Read By</value>
+            </action>
+            <firm>
+                <label>Organization</label>
+                <value>Performance Contractors, Inc.</value>
+            </firm>
+            <staff>
+                <label>User</label>
+                <value>Project Manager</value>
+            </staff>
+            <subaction>
+                <label>Type</label>
+                <value />
+            </subaction>
+            <details>
+                <label>Details</label>
+                <value />
+            </details>
+        </history>
+    </history_list>
+    <projectaddress3>
+        <label>ADDRESS3</label>
+        <value />
+    </projectaddress3>
+</drawing>
