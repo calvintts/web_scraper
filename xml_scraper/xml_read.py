@@ -8,13 +8,22 @@ import re
 file = open("test.xml","r")
 xml_file = file.read()
 file.close()
-xml_page = soup(xml_file,"html.parser")
+xml_page = soup(xml_file,"xml")
 array = []
 # print(xml_page)
 drawing = xml_page.find('drawing')
-for x in drawing:
+for node in drawing.findChildren(recursive=False):
+    data={}
+    result = (node.find('label',recursive=False)!=None)
+    if(result):
+        data['label']=(node.find('label',recursive=False)).string
+        data['value']=(node.find('value',recursive=False)).string
+        array.append(data)
+    # if(node.find('value',resursive=False)!=None):
+    #     print(node.find("value",recursive=False))
+for x in array:
     print (x)
-    print('XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX')
+
 
 # for node in drawing:
 #     data={}
@@ -23,7 +32,7 @@ for x in drawing:
     #     data['label'] = node.find("label",recursive=False).text
     #     data['value'] = node.find("value",recursive=False).text
     #     array.append(data)
-print(array)
+# print(array)
 
 
 
