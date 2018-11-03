@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup as soup
 import array
 import json
 import re
+import requests
 
 def get_html_format (url):
     html_page = uReq(url)
@@ -54,3 +55,6 @@ for x in item_list:
     print(x['name'])
     print(x['ingredients'])
     print(x['directions'])
+
+r = requests.post('localhost:3000/recipe/add',data={"name":"sohai"})
+print (r)
