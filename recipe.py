@@ -28,7 +28,7 @@ for link in links:
     if(validate_link(link)):
         continue
     recipe_page = get_html_format(link)
-    print(link)
+    # print(link)
     if(recipe_page.find(id='recipe-main-content') != None):
         item['name'] = recipe_page.find(id='recipe-main-content').text
     if(recipe_page.find(id="polaris-app") != None):
@@ -48,13 +48,18 @@ for link in links:
             direction = direction.find_all('span',class_='recipe-directions__list--item')
             for step in range(0, len(direction)):
                 directions_list.append(("Step "+ str(step+1) +": "+direction[step].text.replace("Watch Now","")).strip())
-            item['directions']= directions_list
+            item['instructions']= directions_list
     item_list.append(item)
 
 for x in item_list:
-    print(x['name'])
-    print(x['ingredients'])
-    print(x['directions'])
+    payload = json.dumps(x)
+    url = "http://localhost:3000/recipe/add"
+    headers = {
+        'Content-Type': "application/json",
+        }
+    response = requests.request("POST", url, data=payload, headers=headers)
+    print(response.json())
 
-r = requests.post('localhost:3000/recipe/add',data={"name":"sohai"})
-print (r)
+
+    # r = requests.post('https://recipefinder2018.herokuapp.com/recipe/add',data=json_item)
+    # print(r.json())
