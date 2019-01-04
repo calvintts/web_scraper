@@ -1,0 +1,359 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<authority_visit>
+	<id>
+		<label>ID</label>
+		<value>8</value>
+	</id>
+	<documenttype>
+		<label>Document</label>
+		<value>Authority Visit</value>
+	</documenttype>
+	<projectname>
+		<label>Project</label>
+		<value>Practice Project - WPC</value>
+	</projectname>
+	<projectcode>
+		<label>ID</label>
+		<value></value>
+	</projectcode>
+	<projectaddress1>
+		<label>Address</label>
+		<value></value>
+	</projectaddress1>
+	<projectaddress2>
+		<label>ADDRESS2</label>
+		<value></value>
+	</projectaddress2>
+	<projectcity>
+		<label>City</label>
+		<value></value>
+	</projectcity>
+	<projectstatezipcode>
+		<label>State and Zipcode</label>
+		<value></value>
+	</projectstatezipcode>
+	<projectcountry>
+		<label>Country</label>
+		<value>MY</value>
+	</projectcountry>
+	<projectapplicationnumber>
+		<label>Application Number</label>
+		<value></value>
+	</projectapplicationnumber>
+	<projectntp>
+		<label>NTP</label>
+		<value></value>
+	</projectntp>
+	<projectfilenumber>
+		<label>File Number</label>
+		<value></value>
+	</projectfilenumber>
+	<projectregulatoryagency>
+		<label>Regulatory Agency</label>
+		<value></value>
+	</projectregulatoryagency>
+	<name>
+		<label>Subject</label>
+		<value></value>
+	</name>
+	<number>
+		<label>Number</label>
+		<value>6</value>
+	</number>
+	<revision>
+		<label>Revision</label>
+		<value></value>
+	</revision>
+	<timesubmitted>
+		<label>Submitted </label>
+		<value></value>
+	</timesubmitted>
+	<timecreated>
+		<label>Created</label>
+		<value>12/06/2017</value>
+	</timecreated>
+	<createdbyfirmname>
+		<label>Created By</label>
+		<value>LBU HQ</value>
+	</createdbyfirmname>
+	<createdbystaffname>
+		<label>Created By User</label>
+		<value>Andrew Ak Nyagom</value>
+	</createdbystaffname>
+	<submittedto>
+		<label>Issued To</label>
+		<value></value>
+	</submittedto>
+	<docstatus>
+		<label>Status</label>
+		<value>Published</value>
+	</docstatus>
+	<duedate>
+		<label>Due Date</label>
+		<value></value>
+	</duedate>
+	<approvednote>
+		<label>REASON</label>
+		<value></value>
+	</approvednote>
+	<timeapproved>
+		<label>Date Approved</label>
+		<value></value>
+	</timeapproved>
+	<comment>
+		<label>COMMENT BY AUTHORITY</label>
+		<value>All Notices shall be responded back to DOSH within 14 days of issuance of Notices.</value>
+	</comment>
+	<checkbox1>
+		<label>Notice of prohibition</label>
+		<value>1</value>
+	</checkbox1>
+	<checkbox2>
+		<label>Notice of improvement</label>
+		<value>1</value>
+	</checkbox2>
+	<checkbox3>
+		<label>Non conformance report (NCR)</label>
+		<value>1</value>
+	</checkbox3>
+	<checkbox4>
+		<label>Observation</label>
+		<value>1</value>
+	</checkbox4>
+	<checkbox5>
+		<label>Other</label>
+		<value>0</value>
+	</checkbox5>
+	<checkbox6>
+		<label>No notice issued</label>
+		<value>0</value>
+	</checkbox6>
+	<textfield1>
+		<label>Date</label>
+		<value>12/06/2017</value>
+	</textfield1>
+	<textfield2>
+		<label>Authority</label>
+		<value>DOSH</value>
+	</textfield2>
+	<textfield3>
+		<label>No of notices</label>
+		<value>1</value>
+	</textfield3>
+	<textfield4>
+		<label>No of notices</label>
+		<value>2</value>
+	</textfield4>
+	<textfield5>
+		<label>No of notices</label>
+		<value>3</value>
+	</textfield5>
+	<textfield7>
+		<label>No of notices</label>
+		<value>4</value>
+	</textfield7>
+	<textfield8>
+		<label>No of notices</label>
+		<value></value>
+	</textfield8>
+	<attachments_list>
+		<attachment>
+			<description>
+				<label>Description</label>
+				<value></value>
+			</description>
+			<size>
+				<label>Size</label>
+				<value>70599</value>
+			</size>
+			<filename>
+				<label>File</label>
+				<value>RISK ASSESSMENT MODEL.pdf</value>
+			</filename>
+			<type>
+				<label>Type</label>
+				<value>application/pdf</value>
+			</type>
+		</attachment>
+	</attachments_list>
+	<divisionname>
+		<label></label>
+		<value></value>
+	</divisionname>
+	<programname>
+		<label>Program</label>
+		<value>No Program</value>
+	</programname>
+	<approvedby>
+		<name>
+			<label>Subject</label>
+			<value>System</value>
+		</name>
+		<staffname>
+			<label></label>
+			<value>System</value>
+		</staffname>
+		<firmname>
+			<label></label>
+			<value></value>
+		</firmname>
+		<position>
+			<label></label>
+			<value></value>
+		</position>
+	</approvedby>
+	<history_list>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Dec 6 2017 12:06:04pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Created By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>Andrew Ak Nyagom</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Assistant HSE Officer</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value>Details</value>
+			</subaction>
+			<details>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Dec 6 2017 12:06:05pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>File Uploaded By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>Andrew Ak Nyagom</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Assistant HSE Officer</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value>File</value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value>RISK ASSESSMENT MODEL.pdf</value>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Dec 6 2017 12:10:10pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Closed By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>Andrew Ak Nyagom</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Assistant HSE Officer</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value></value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value></value>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Dec 6 2017 12:15:29pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Read By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>Parimala Muniandy</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Senior Environmental Officer</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value></value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value></value>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Dec 6 2017 12:48:18pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Read By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value></value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value></value>
+			</details>
+		</history>
+	</history_list>
+	<projectaddress3>
+		<label>ADDRESS3</label>
+		<value> </value>
+	</projectaddress3>
+</authority_visit>
