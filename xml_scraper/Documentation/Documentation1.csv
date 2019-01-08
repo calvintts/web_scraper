@@ -1,2 +1,7 @@
-,ID,Document,Subject,Revision,Created,Created By User,Issued To,Status,Comment,Month,Year,Department,Document File Name
-0,461,Documentation,Contract Training Material,1,09/27/2017,System IT,-,Draft,PIMS training manual for Contract Dept.,Sept,2017,-,Documentation_#_1_1.pdf
+,ID,Document,Subject,Revision,Created,Created By User,Issued To,Status,Month,Year,Comment,Department,Document File Name,Document Name
+0,7189,Documentation,TTT Materials,-,02/26/2018,System IT,-,Published,Feb,2018,-,Construction Management,CMT-TTT-Guideline_attachment_A.docx,Documentation_#_103
+1,7189,Documentation,TTT Materials,-,02/26/2018,System IT,-,Published,Feb,2018,-,Construction Management,CMT-TTT-Guideline_attachment_B.pdf,Documentation_#_103
+2,7189,Documentation,TTT Materials,-,02/26/2018,System IT,-,Published,Feb,2018,-,Construction Management,CMT-TTT-Slides_attachment_C.pptx,Documentation_#_103
+3,7189,Documentation,TTT Materials,-,02/26/2018,System IT,-,Published,Feb,2018,-,Construction Management,CMT-TTT-Slides_attachment_D.pdf,Documentation_#_103
+4,7189,Documentation,TTT Materials,-,02/26/2018,System IT,-,Published,Feb,2018,-,Construction Management,Documentation_#_103.pdf,Documentation_#_103
+5,461,Documentation,Contract Training Material,1,09/27/2017,System IT,-,Draft,Sept,2017,PIMS training manual for Contract Dept.,-,Documentation_#_1_1.pdf,Documentation_#_1_1

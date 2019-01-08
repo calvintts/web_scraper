@@ -33,24 +33,36 @@ def extract(filename):
             array.append(data)
         if node.name == 'attachments_list' :
             attachments = node.find_all('filename')
+            data['label']='Document File Name'
+            data['value']=[]
             for index, a in enumerate(attachments):
-                data['label']='Document File Name'
-                data['value']=add_attachment_extension((a.find('value',recursive=False)).string,index)
+                data['value'].append(add_attachment_extension((a.find('value',recursive=False)).string,index))
                 array.append(data)
     return array
 
 files = os.listdir()
-print(files)
+final_array = []
+col=['ID','Document','Subject','Revision','Created','Created By User','Issued To','Status','Month','Year','Comment','Department','Document File Name','Document Name']
 for file in files:
     t = file.split('.')
     ext = t[-1]
     if('documentation'in file.lower() and ext=="xml"):
         data = restructure_kv_pair(extract(file))
+        print(data)
         filename = "".join(t[:-1])
         filename_with_extension = "".join(t[:-1]) + ".pdf"
+        data['Document Name']=filename
+        if('Document File Name' in data):
+            all_attachments = data['Document File Name']
+            for att in all_attachments:
+                new_dict = dict(data)
+                new_dict['Document File Name']=att
+                print(new_dict['Document File Name'])
+                final_array.append(new_dict)
         data['Document File Name']=filename_with_extension
-        result = pd.DataFrame(data,index=[0])
-        result.to_csv("Documentation1.csv")
+        final_array.append(data)
+    result = pd.DataFrame(final_array,columns=col)
+    result.to_csv("Documentation1.csv")
     # del t[-1]
     # name = "".join(t)
     # print("Name: "+name)

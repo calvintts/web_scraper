@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentation>
+	<id>
+		<label>ID</label>
+		<value>7189</value>
+	</id>
+	<documenttype>
+		<label>Document</label>
+		<value>Documentation</value>
+	</documenttype>
+	<revisiondate>
+		<label>Revision Date</label>
+		<value></value>
+	</revisiondate>
+	<projectname>
+		<label>Project</label>
+		<value>Practice Project - WPC</value>
+	</projectname>
+	<projectcode>
+		<label>ID</label>
+		<value></value>
+	</projectcode>
+	<projectaddress1>
+		<label>Address</label>
+		<value></value>
+	</projectaddress1>
+	<projectaddress2>
+		<label>ADDRESS2</label>
+		<value></value>
+	</projectaddress2>
+	<projectcity>
+		<label>City</label>
+		<value></value>
+	</projectcity>
+	<projectstatezipcode>
+		<label>State and Zipcode</label>
+		<value></value>
+	</projectstatezipcode>
+	<projectcountry>
+		<label>Country</label>
+		<value>MY</value>
+	</projectcountry>
+	<projectapplicationnumber>
+		<label>Application Number</label>
+		<value></value>
+	</projectapplicationnumber>
+	<projectntp>
+		<label>NTP</label>
+		<value></value>
+	</projectntp>
+	<projectfilenumber>
+		<label>File Number</label>
+		<value></value>
+	</projectfilenumber>
+	<projectregulatoryagency>
+		<label>Regulatory Agency</label>
+		<value></value>
+	</projectregulatoryagency>
+	<name>
+		<label>Subject</label>
+		<value>TTT Materials</value>
+	</name>
+	<number>
+		<label>Number</label>
+		<value>103</value>
+	</number>
+	<revision>
+		<label>Revision</label>
+		<value></value>
+	</revision>
+	<timesubmitted>
+		<label>Submitted </label>
+		<value></value>
+	</timesubmitted>
+	<timecreated>
+		<label>Created</label>
+		<value>02/26/2018</value>
+	</timecreated>
+	<createdbyfirmname>
+		<label>Created By</label>
+		<value>LBU HQ</value>
+	</createdbyfirmname>
+	<createdbystaffname>
+		<label>Created By User</label>
+		<value>System IT</value>
+	</createdbystaffname>
+	<submittedto>
+		<label>Issued To</label>
+		<value></value>
+	</submittedto>
+	<docstatus>
+		<label>Status</label>
+		<value>Published</value>
+	</docstatus>
+	<duedate>
+		<label>Due Date</label>
+		<value></value>
+	</duedate>
+	<approvednote>
+		<label>REASON</label>
+		<value></value>
+	</approvednote>
+	<timeapproved>
+		<label>Date Approved</label>
+		<value></value>
+	</timeapproved>
+	<comment>
+		<label>Comment</label>
+		<value></value>
+	</comment>
+	<dropdown1>
+		<label>Month</label>
+		<value>Feb</value>
+	</dropdown1>
+	<dropdown2>
+		<label>Year</label>
+		<value>2018</value>
+	</dropdown2>
+	<dropdown3>
+		<label>Department</label>
+		<value>Construction Management</value>
+	</dropdown3>
+	<textfield1>
+		<label>Reference no.</label>
+		<value></value>
+	</textfield1>
+	<textfield2>
+		<label>Document Date</label>
+		<value></value>
+	</textfield2>
+	<textfield3>
+		<label>Received Date</label>
+		<value></value>
+	</textfield3>
+	<requesttype>
+		<label>Type</label>
+		<value>PIMS Solution doc</value>
+	</requesttype>
+	<attachments_list>
+		<attachment>
+			<description>
+				<label>Description</label>
+				<value></value>
+			</description>
+			<size>
+				<label>Size</label>
+				<value>411990</value>
+			</size>
+			<filename>
+				<label>File</label>
+				<value>CMT-TTT-Guideline.docx</value>
+			</filename>
+			<type>
+				<label>Type</label>
+				<value>application/vnd.openxmlformats-officedocument.wordprocessingml.document</value>
+			</type>
+		</attachment>
+		<attachment>
+			<description>
+				<label>Description</label>
+				<value></value>
+			</description>
+			<size>
+				<label>Size</label>
+				<value>762267</value>
+			</size>
+			<filename>
+				<label>File</label>
+				<value>CMT-TTT-Guideline.pdf</value>
+			</filename>
+			<type>
+				<label>Type</label>
+				<value>application/pdf</value>
+			</type>
+		</attachment>
+		<attachment>
+			<description>
+				<label>Description</label>
+				<value></value>
+			</description>
+			<size>
+				<label>Size</label>
+				<value>413364</value>
+			</size>
+			<filename>
+				<label>File</label>
+				<value>CMT-TTT-Slides.pptx</value>
+			</filename>
+			<type>
+				<label>Type</label>
+				<value>application/vnd.openxmlformats-officedocument.presentationml.presentation</value>
+			</type>
+		</attachment>
+		<attachment>
+			<description>
+				<label>Description</label>
+				<value></value>
+			</description>
+			<size>
+				<label>Size</label>
+				<value>513720</value>
+			</size>
+			<filename>
+				<label>File</label>
+				<value>CMT-TTT-Slides.pdf</value>
+			</filename>
+			<type>
+				<label>Type</label>
+				<value>application/pdf</value>
+			</type>
+		</attachment>
+	</attachments_list>
+	<divisionname>
+		<label></label>
+		<value></value>
+	</divisionname>
+	<programname>
+		<label>Program</label>
+		<value>No Program</value>
+	</programname>
+	<approvedby>
+		<name>
+			<label>Subject</label>
+			<value>System</value>
+		</name>
+		<staffname>
+			<label></label>
+			<value>System</value>
+		</staffname>
+		<firmname>
+			<label></label>
+			<value></value>
+		</firmname>
+		<position>
+			<label></label>
+			<value></value>
+		</position>
+	</approvedby>
+	<history_list>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Feb 26 2018 2:06:02pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Created By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value>Details</value>
+			</subaction>
+			<details>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Feb 26 2018 2:06:02pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>File Uploaded By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value>File</value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value>CMT-TTT-Guideline.docx</value>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Feb 26 2018 2:06:02pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>File Uploaded By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value>File</value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value>CMT-TTT-Guideline.pdf</value>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Feb 26 2018 2:06:28pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Closed By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value></value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value></value>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Feb 26 2018 2:39:52pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Reopened By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value></value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value></value>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Feb 26 2018 2:40:55pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Modified By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value>Details</value>
+			</subaction>
+			<details>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Feb 26 2018 2:40:56pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>File Uploaded By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value>File</value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value>CMT-TTT-Slides.pptx</value>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Feb 26 2018 2:40:56pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>File Uploaded By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value>File</value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value>CMT-TTT-Slides.pdf</value>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Feb 26 2018 2:40:59pm</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Closed By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value></value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value></value>
+			</details>
+		</history>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Oct 3 2018 10:37:47am</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Read By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>Zecon Berhad-Kimlun Sdn Bhd</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>WPC03 Zecon Kimlun</value>
+			</staff>
+			<position>
+				<label></label>
+				<value></value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value></value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value></value>
+			</details>
+		</history>
+	</history_list>
+	<projectaddress3>
+		<label>ADDRESS3</label>
+		<value> </value>
+	</projectaddress3>
+</documentation>
