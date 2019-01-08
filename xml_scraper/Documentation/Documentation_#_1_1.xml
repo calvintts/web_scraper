@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documentation>
+	<id>
+		<label>ID</label>
+		<value>461</value>
+	</id>
+	<documenttype>
+		<label>Document</label>
+		<value>Documentation</value>
+	</documenttype>
+	<revisiondate>
+		<label>Revision Date</label>
+		<value>09/27/2017</value>
+	</revisiondate>
+	<projectname>
+		<label>Project</label>
+		<value>Practice Project - WPC</value>
+	</projectname>
+	<projectcode>
+		<label>ID</label>
+		<value></value>
+	</projectcode>
+	<projectaddress1>
+		<label>Address</label>
+		<value></value>
+	</projectaddress1>
+	<projectaddress2>
+		<label>ADDRESS2</label>
+		<value></value>
+	</projectaddress2>
+	<projectcity>
+		<label>City</label>
+		<value></value>
+	</projectcity>
+	<projectstatezipcode>
+		<label>State and Zipcode</label>
+		<value></value>
+	</projectstatezipcode>
+	<projectcountry>
+		<label>Country</label>
+		<value>MY</value>
+	</projectcountry>
+	<projectapplicationnumber>
+		<label>Application Number</label>
+		<value></value>
+	</projectapplicationnumber>
+	<projectntp>
+		<label>NTP</label>
+		<value></value>
+	</projectntp>
+	<projectfilenumber>
+		<label>File Number</label>
+		<value></value>
+	</projectfilenumber>
+	<projectregulatoryagency>
+		<label>Regulatory Agency</label>
+		<value></value>
+	</projectregulatoryagency>
+	<name>
+		<label>Subject</label>
+		<value>Contract Training Material</value>
+	</name>
+	<number>
+		<label>Number</label>
+		<value>1</value>
+	</number>
+	<revision>
+		<label>Revision</label>
+		<value>1</value>
+	</revision>
+	<timesubmitted>
+		<label>Submitted </label>
+		<value></value>
+	</timesubmitted>
+	<timecreated>
+		<label>Created</label>
+		<value>09/27/2017</value>
+	</timecreated>
+	<createdbyfirmname>
+		<label>Created By</label>
+		<value>LBU HQ</value>
+	</createdbyfirmname>
+	<createdbystaffname>
+		<label>Created By User</label>
+		<value>System IT</value>
+	</createdbystaffname>
+	<submittedto>
+		<label>Issued To</label>
+		<value></value>
+	</submittedto>
+	<docstatus>
+		<label>Status</label>
+		<value>Draft</value>
+	</docstatus>
+	<duedate>
+		<label>Due Date</label>
+		<value></value>
+	</duedate>
+	<approvednote>
+		<label>REASON</label>
+		<value></value>
+	</approvednote>
+	<timeapproved>
+		<label>Date Approved</label>
+		<value></value>
+	</timeapproved>
+	<comment>
+		<label>Comment</label>
+		<value>PIMS training manual for Contract Dept.</value>
+	</comment>
+	<dropdown1>
+		<label>Month</label>
+		<value>Sept</value>
+	</dropdown1>
+	<dropdown2>
+		<label>Year</label>
+		<value>2017</value>
+	</dropdown2>
+	<dropdown3>
+		<label>Department</label>
+		<value></value>
+	</dropdown3>
+	<divisionname>
+		<label></label>
+		<value></value>
+	</divisionname>
+	<programname>
+		<label>Program</label>
+		<value>No Program</value>
+	</programname>
+	<approvedby>
+		<name>
+			<label>Subject</label>
+			<value>System</value>
+		</name>
+		<staffname>
+			<label></label>
+			<value>System</value>
+		</staffname>
+		<firmname>
+			<label></label>
+			<value></value>
+		</firmname>
+		<position>
+			<label></label>
+			<value></value>
+		</position>
+	</approvedby>
+	<history_list>
+		<history>
+			<timecreated>
+				<label>Created</label>
+				<value>Sep 27 2017 9:28:51am</value>
+			</timecreated>
+			<action>
+				<label>Type</label>
+				<value>Revised By</value>
+			</action>
+			<firm>
+				<label>Organization</label>
+				<value>LBU HQ</value>
+			</firm>
+			<staff>
+				<label>User</label>
+				<value>System IT</value>
+			</staff>
+			<position>
+				<label></label>
+				<value>Support</value>
+			</position>
+			<subaction>
+				<label>Type</label>
+				<value></value>
+			</subaction>
+			<details>
+				<label>Details</label>
+				<value></value>
+			</details>
+		</history>
+	</history_list>
+	<projectaddress3>
+		<label>ADDRESS3</label>
+		<value> </value>
+	</projectaddress3>
+</documentation>
